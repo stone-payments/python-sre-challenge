@@ -8,7 +8,7 @@ To better assess your technical skills, we prepared this small challenge as part
 
 ## The Challenge
 
-Create a Dashboard that shows Running and Stopped containers from a Docker server, and you should also be able to start, stop, delete that containers and create new ones sending the image name.
+Create a **simple Dashboard** that shows Running and Stopped containers from a Docker server, and you should also be able to start, stop, delete that containers and create new ones sending the image name.
 
 Examples of similiar apps are the following:
 - [Docker UI](https://github.com/otothea/docker-ui)
