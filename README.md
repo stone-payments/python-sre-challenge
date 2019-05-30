@@ -19,7 +19,7 @@ Examples of similiar apps are the following:
 What you must know about the app:
 1. Docker should running on your local machine.
 2. The integration should be using you local Docker-API.
-3. We expect a dashboard to visualize the container and backend that interacts with the Docker API.
+3. We expect a dashboard to visualize the container and a backend that interacts with the Docker API.
 4. You can use any frameworks in both the backend and the frontend.
 
 ### Checkpoints
@@ -35,7 +35,6 @@ Here are some of the checkpoints to guide you through this challenge, you **don'
   - [ ] Launch new containers
   - [ ] Delete containers
 - [ ] Create Instructions how the application can be executed on the README.
-
 
 
 ## Requirements
