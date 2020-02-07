@@ -1,10 +1,12 @@
-# Stone Python Developer Challenge
+# Stone Javascript/Typescript Developer Challenge
 
 ## Presentation
 
 Hello there Stone Candidates!
 
 To better assess your technical skills, we prepared this small challenge as part of our hiring process.
+
+You can do it in typescript or just javascript as well.
 
 ## The Challenge
 
@@ -26,7 +28,7 @@ What you must know about the app:
 
 Here are some of the checkpoints to guide you through this challenge, you **don't need to do all of them**, but do as much as you can. They **are not** in any particular order, use your analytical skills to prioritize them.
 
-- [ ] Create the backend in Python.
+- [ ] Create the backend in Node.
 - [ ] Create the endpoints that dashboard will interact with backend. Example: /api/start, /api/stop.
 - [ ] Create a Dashboard to show the containers and the controls.
 - [ ] Create the following interactions:
@@ -35,6 +37,7 @@ Here are some of the checkpoints to guide you through this challenge, you **don'
   - [ ] Launch new containers
   - [ ] Delete containers
 - [ ] Create Instructions how the application can be executed on the README.
+- [ ] Some unit tests with an framework  of your choice.
 
 
 ## Requirements
@@ -42,14 +45,14 @@ Here are some of the checkpoints to guide you through this challenge, you **don'
 You will need to complete the challenge:
 
 - A computer with internet
-- Python development skills.
+- Javascript or Typescript development skills.
 - Some front-end development skills.
 - Some docker operational skills.
 
 
 ## Deliverables
 
-The deliverable for this challenge is the code, inside a public GitHub repository of yours. You should provide us the URL for it.
+The deliverable for this challenge is the code, inside a public GitHub or any git repository of yours. You should provide us the URL for it.
 
 We should be able to run your application on our computers, and your README should have all the information necessary for it. 
 
